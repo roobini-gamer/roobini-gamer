@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Roobini</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://gifimage.net/wp-content/uploads/2017/10/hacker-gif-animation-6.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
