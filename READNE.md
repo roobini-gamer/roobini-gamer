@@ -24,15 +24,12 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
-<!--
-
 - 🛢 &nbsp; MySQL
 
 - 🔧 &nbsp; Git 
 
 - 🖥 &nbsp; Illustrator| Photoshop | After Effects 
 
--->
 
 
 
