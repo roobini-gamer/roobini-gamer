@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | Ruby | MySQL
+- 💻 &nbsp; Python | Java | Ruby 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
