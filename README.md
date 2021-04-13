@@ -43,7 +43,7 @@
 
 <br/><br/>
 
-[![roobini-gamer GitHub Stats](https://github-readme-stats.vercel.app/api?username=roobini-gamer&theme=radical&show_icons=true)](https://github.com/roobini-gamer) ![roobini-gamer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roobini-gamer&theme=radical&show_icons=true)
+[![roobini-gamer GitHub Stats](https://github-readme-stats.vercel.app/api?username=roobini-gamer&theme=radical&show_icons=true)](https://github.com/roobini-gamer) ![roobini-gamer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roobini-gamer&theme=radical&layout=compact=true)
 
 <br><br>
 
