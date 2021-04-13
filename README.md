@@ -30,7 +30,7 @@
 
 - 🖥 &nbsp; Illustrator| Photoshop | After Effects 
 - 
-![roobini-gamer Top Langs]< (https://github-readme-stats.vercel.app/api/top-langs/?username=roobini-gamer&theme=radical&layout=compact) width="230">
+![roobini-gamer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roobini-gamer&theme=radical&layout=compact) width="230"
 
 
 
