@@ -14,7 +14,7 @@
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
 
-<h3>🛠 Tech Stack</h3>
+<h3> 🛠 Tech Stack </h3>
 
 
 - 💻 &nbsp; Python | Java | Ruby 
@@ -28,7 +28,7 @@
 - 🖥 &nbsp; Illustrator  Photoshop | After Effects 
 
 
-<h3>🛠 To Learn</h3>
+<h3> 🛠 To Learn </h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Swift
 
