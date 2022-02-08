@@ -47,7 +47,7 @@
 
 <h3💸 Donation</h3>
 
-Monero   : 88ZQwdQLKD99qYym8sqnXp7HdvwwnaEqS7kCbvCJDRNWPkgdZeMKFHgbuYBJaTaSiBDvKr4Ut7u3H8dExRxYDSHm3grKUDQ
-Bitcoin  : 6m4ncqd2urugm6adfs8w9lsedsqnkraf4gu9
-WoWnero  : WW39JZhHjn2GKwu3VrvYhibaKhC8ujfJY3cUPWFi2uUWXWXu1fT7WZie67uWmFEfPJ1x72XUuUaDjGvHQTCNicuY2xDcPrsyN
+- Monero   : 88ZQwdQLKD99qYym8sqnXp7HdvwwnaEqS7kCbvCJDRNWPkgdZeMKFHgbuYBJaTaSiBDvKr4Ut7u3H8dExRxYDSHm3grKUDQ
+- Bitcoin  : 6m4ncqd2urugm6adfs8w9lsedsqnkraf4gu9
+- WoWnero  : WW39JZhHjn2GKwu3VrvYhibaKhC8ujfJY3cUPWFi2uUWXWXu1fT7WZie67uWmFEfPJ1x72XUuUaDjGvHQTCNicuY2xDcPrsyN
 
