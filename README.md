@@ -47,7 +47,9 @@
 
 #💸 Donation
 
-- Monero   : 88ZQwdQLKD99qYym8sqnXp7HdvwwnaEqS7kCbvCJDRNWPkgdZeMKFHgbuYBJaTaSiBDvKr4Ut7u3H8dExRxYDSHm3grKUDQ
-- Bitcoin  : 6m4ncqd2urugm6adfs8w9lsedsqnkraf4gu9
-- WoWnero  : WW39JZhHjn2GKwu3VrvYhibaKhC8ujfJY3cUPWFi2uUWXWXu1fT7WZie67uWmFEfPJ1x72XUuUaDjGvHQTCNicuY2xDcPrsyN
-
+- Monero   (XMR): 88ZQwdQLKD99qYym8sqnXp7HdvwwnaEqS7kCbvCJDRNWPkgdZeMKFHgbuYBJaTaSiBDvKr4Ut7u3H8dExRxYDSHm3grKUDQ
+- Bitcoin  (BTC): 6m4ncqd2urugm6adfs8w9lsedsqnkraf4gu9
+- WoWnero  (WOW): WW39JZhHjn2GKwu3VrvYhibaKhC8ujfJY3cUPWFi2uUWXWXu1fT7WZie67uWmFEfPJ1x72XUuUaDjGvHQTCNicuY2xDcPrsyN
+- Masari   (MSR): 5j4dCRYdC1bDQU4WP9gTaEJ8CuCRgwWrZS9CemS2itGAP3cSaWwvqasdj1CcGyKqrz89AjJc9QzzYQiVLs8erV9j1AZYAiX
+- Ethereum (ETH): 0x4B2E8d00DD841ae90F37a3d37b6bc3BdF83d113A
+- LBRY Credits  : bZdcrPQZ7ETQRGeXnzqeLXZxqLxhexPBPa
