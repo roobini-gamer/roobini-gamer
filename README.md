@@ -1,6 +1,6 @@
 # Hi there 👋<h2> I'm Roobini</h2>
 
-<img align='right' src="https://gifimage.net/wp-content/uploads/2017/10/hacker-gif-animation-6.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/roobini-gamer/roobini-gamer/main/hackergif.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -43,3 +43,5 @@
 - Masari   (MSR): 5j4dCRYdC1bDQU4WP9gTaEJ8CuCRgwWrZS9CemS2itGAP3cSaWwvqasdj1CcGyKqrz89AjJc9QzzYQiVLs8erV9j1AZYAiX
 - Ethereum (ETH): 0xc928A12655430eAb4bAE3863400Fe1Cc106B5432
 - LBRY Credits  : bZdcrPQZ7ETQRGeXnzqeLXZxqLxhexPBPa
+
+<a href="https://www.buymeacoffee.com/roobinihamza" target="_blank"><img src="https://raw.githubusercontent.com/roobini-gamer/roobini-gamer/main/buymeacoffee.webp" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
