@@ -44,4 +44,3 @@
 - Ethereum (ETH): 0xc928A12655430eAb4bAE3863400Fe1Cc106B5432
 - LBRY Credits  : bZdcrPQZ7ETQRGeXnzqeLXZxqLxhexPBPa
 
-<a href="https://www.buymeacoffee.com/roobinihamza" target="_blank"><img src="https://raw.githubusercontent.com/roobini-gamer/roobini-gamer/main/buymeacoffee.webp" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
