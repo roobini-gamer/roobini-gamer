@@ -45,4 +45,5 @@
 - LBRY Credits    (LBRY): bZdcrPQZ7ETQRGeXnzqeLXZxqLxhexPBPa
 - Ghost Token    (GHOST): Gg2UvAiCWrpYkYN7NmrffyUsLdWpd1RzFo
 - Litecoin         (LTC): ltc1qhg968wfxnjgjdqgaj4355953rv7jxupww0znw9
-
+- Bittorrent Token (BTT): 0xc928a12655430eab4bae3863400fe1cc106b5432
+- 
