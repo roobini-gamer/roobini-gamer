@@ -35,16 +35,26 @@
 
 ![roobini-gamer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roobini-gamer&theme=radical&layout=compact) [![roobini-gamer GitHub Stats](https://github-readme-stats.vercel.app/api?username=roobini-gamer&theme=radical&show_icons=true)](https://github.com/roobini-gamer) 
 
-<h3> 💸 Donation </h3>
+# <h3> 💸 Donation </h3>
+
+
 ***please dont use old adresse***
 
-- Monero           (XMR): 88ZQwdQLKD99qYym8sqnXp7HdvwwnaEqS7kCbvCJDRNWPkgdZeMKFHgbuYBJaTaSiBDvKr4Ut7u3H8dExRxYDSHm3grKUDQ
-- Bitcoin          (BTC): 6m4ncqd2urugm6adfs8w9lsedsqnkraf4gu9
-- WoWnero          (WOW): WW39JZhHjn2GKwu3VrvYhibaKhC8ujfJY3cUPWFi2uUWXWXu1fT7WZie67uWmFEfPJ1x72XUuUaDjGvHQTCNicuY2xDcPrsyN
-- Masari           (MSR): 5j4dCRYdC1bDQU4WP9gTaEJ8CuCRgwWrZS9CemS2itGAP3cSaWwvqasdj1CcGyKqrz89AjJc9QzzYQiVLs8erV9j1AZYAiX
-- Ethereum         (ETH): 0xc928A12655430eAb4bAE3863400Fe1Cc106B5432
-- LBRY Credits    (LBRY): bZdcrPQZ7ETQRGeXnzqeLXZxqLxhexPBPa
-- Ghost Token    (GHOST): Gg2UvAiCWrpYkYN7NmrffyUsLdWpd1RzFo
-- Litecoin         (LTC): ltc1qhg968wfxnjgjdqgaj4355953rv7jxupww0znw9
-- Bittorrent Token (BTT): 0xc928a12655430eab4bae3863400fe1cc106b5432
-- 
+### I prefer:
+  - Monero           (XMR): 88ZQwdQLKD99qYym8sqnXp7HdvwwnaEqS7kCbvCJDRNWPkgdZeMKFHgbuYBJaTaSiBDvKr4Ut7u3H8dExRxYDSHm3grKUDQ
+  - Bitcoin          (BTC): 6m4ncqd2urugm6adfs8w9lsedsqnkraf4gu9
+  - WoWnero          (WOW): WW39JZhHjn2GKwu3VrvYhibaKhC8ujfJY3cUPWFi2uUWXWXu1fT7WZie67uWmFEfPJ1x72XUuUaDjGvHQTCNicuY2xDcPrsyN
+  - Ghost Token    (GHOST): Gg2UvAiCWrpYkYN7NmrffyUsLdWpd1RzFo
+  - Masari           (MSR): 5j4dCRYdC1bDQU4WP9gTaEJ8CuCRgwWrZS9CemS2itGAP3cSaWwvqasdj1CcGyKqrz89AjJc9QzzYQiVLs8erV9j1AZYAiX
+
+### But i also accept:
+  - LBRY Credits    (LBRY): bZdcrPQZ7ETQRGeXnzqeLXZxqLxhexPBPa
+  - Ethereum         (ETH): 0xc928A12655430eAb4bAE3863400Fe1Cc106B5432
+  - Litecoin         (LTC): ltc1qhg968wfxnjgjdqgaj4355953rv7jxupww0znw9
+  - Bittorrent Token (BTT): 0xc928a12655430eab4bae3863400fe1cc106b5432
+  - Basic Attention  (BAT): 0xc928A12655430eAb4bAE3863400Fe1Cc106B5432
+  - USD Coin        (USDC): 0xc928A12655430eAb4bAE3863400Fe1Cc106B5432
+  - Shiba Inu       (SHIB): 0xc928A12655430eAb4bAE3863400Fe1Cc106B5432
+  - Whackd Token  (WHACKD): 0xc928A12655430eAb4bAE3863400Fe1Cc106B5432
+
+
