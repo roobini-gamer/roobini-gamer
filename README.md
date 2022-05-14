@@ -36,6 +36,7 @@
 ![roobini-gamer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roobini-gamer&theme=radical&layout=compact) [![roobini-gamer GitHub Stats](https://github-readme-stats.vercel.app/api?username=roobini-gamer&theme=radical&show_icons=true)](https://github.com/roobini-gamer) 
 
 <h3> 💸 Donation </h3>
+***please dont use old adresse***
 
 - Monero           (XMR): 88ZQwdQLKD99qYym8sqnXp7HdvwwnaEqS7kCbvCJDRNWPkgdZeMKFHgbuYBJaTaSiBDvKr4Ut7u3H8dExRxYDSHm3grKUDQ
 - Bitcoin          (BTC): 6m4ncqd2urugm6adfs8w9lsedsqnkraf4gu9
