@@ -25,7 +25,7 @@
 
 - 🔧 &nbsp; Git 
 
-- 🖥 &nbsp; Illustrator  Photoshop | After Effects 
+- 🖥 &nbsp; Illustrator | Photoshop | After Effects 
 
 
 <h3> 🛠 To Learn </h3>
