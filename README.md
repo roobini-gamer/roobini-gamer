@@ -17,7 +17,7 @@
 <h3> 🛠 Tech Stack </h3>
 
 
-- 💻 &nbsp; Python | Java | Ruby | PHP
+- 💻 &nbsp; Python | Java | Ruby | PHP | Swift
 
 - 🌐 &nbsp; HTML | HTMX | CSS | JavaScript
 
@@ -30,7 +30,7 @@
 
 <h3> 🛠 To Learn </h3>
 
-- 🔧 &nbsp; SvelteKit | Apache Kafka | Zig | Swift | Vue.js | Nuxt
+- 🔧 &nbsp; SvelteKit | Apache Kafka | Rust | Cobol | Vue.js | Nuxt
 
 
 ![roobini-gamer Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roobini-gamer&theme=radical&layout=compact) [![roobini-gamer GitHub Stats](https://github-readme-stats.vercel.app/api?username=roobini-gamer&theme=radical&show_icons=true)](https://github.com/roobini-gamer) 
