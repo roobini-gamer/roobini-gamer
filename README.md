@@ -43,7 +43,4 @@
 ### I prefer:
   - Monero           (XMR): 88ZQwdQLKD99qYym8sqnXp7HdvwwnaEqS7kCbvCJDRNWPkgdZeMKFHgbuYBJaTaSiBDvKr4Ut7u3H8dExRxYDSHm3grKUDQ
 
-### But i also accept:
-  - LBRY Credits    (LBRY): bZdcrPQZ7ETQRGeXnzqeLXZxqLxhexPBPa
-
 
